@@ -1,5 +1,5 @@
 # project-pet
 a web site about pet
 
-#ng serve
+# ng serve
 run front-end localhost:4200
